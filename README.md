@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/lorena-swe/lorena-swe/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **lorena-swe/lorena-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
