@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=lorena-swe&color=blue)
 # Hi there, I'm Lorena 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-zotaj/)
