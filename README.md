@@ -26,5 +26,5 @@ I'm a frontend-focused Full Stack Developer, passionate about creating amazing w
 - ![Meta Certification](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white) Meta Frontend Developer Certification
 - ![React Certification](https://img.shields.io/badge/CodeWithMosh-61DAFB?style=for-the-badge&logo=react&logoColor=white) CodeWithMosh React Certification
 
-## Snack Time! 🍕
+## 🍕 Snack Time!
 ![Snake animation](https://raw.githubusercontent.com/lorena-swe/lorena-swe/output/github-contribution-grid-snake-dark.svg)
