@@ -5,6 +5,8 @@
 ## 💡 About Me
 I'm a frontend-focused Full Stack Developer, passionate about creating amazing web experiences. Currently, I'm focused on learning more about React and TypeScript.
 
+<br />
+
 ## 🛠️ Technologies and Tools I use:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,9 +24,29 @@ I'm a frontend-focused Full Stack Developer, passionate about creating amazing w
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
+<br />
+
 ## 🎓 Certifications
 - ![Meta Certification](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white) Meta Frontend Developer Certification
 - ![React Certification](https://img.shields.io/badge/CodeWithMosh-61DAFB?style=for-the-badge&logo=react&logoColor=white) CodeWithMosh React Certification
+
+<br />
+
+## 💻 My Favourite Projects
+### Game Hub 🎮 
+#### [🌐Live Version](https://lorena-swe-game-hub.vercel.app/) • [📄Repo](https://github.com/lorena-swe/game-hub)
+A comprehensive list of videogames, which can be filtered by genres, platforms, or keywords, as well as sorted in multiple different ways.
+Loading skeletons are included for a seamless and pleasant user experience!
+
+TECH STACK: React, Typescript, HTML&CSS, ChakraUI, RAWG.io API
+
+### Little Lemon 🍋
+#### [🌐Live Version](https://lorena-swe-game-hub.vercel.app/) • [📄Repo](https://github.com/lorena-swe/little-lemon-restaurant)
+Little Lemon Restaurant welcomes you their latest website, where customers can view dishes, reviews or even book at a table in one of their many locations all across Chicago!
+
+TECH STACK: React, JavaScript, HTML&CSS
+
+<br />
 
 ## 🍕 Snack Time!
 ![Snake animation](https://raw.githubusercontent.com/lorena-swe/lorena-swe/output/github-contribution-grid-snake-dark.svg)
