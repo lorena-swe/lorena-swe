@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-zotaj/)
 
 ## 💡 About Me
-I'm a frontend-focused Full Stack Developer, passionate about creating amazing web experiences. Currently, I'm focused on learning more about React and TypeScript.
+I'm a frontend-focused Full Stack Developer with almost 2 years of experience, passionate about creating amazing web experiences.
+<br />
+Currently, I'm focused on learning more about React and TypeScript.
 
 ## 🛠️ Technologies and Tools I use:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
