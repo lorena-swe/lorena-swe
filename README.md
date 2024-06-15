@@ -1,6 +1,7 @@
 # Hi there, I'm Lorena 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-zotaj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23e57373?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lorena-swe-portfolio.vercel.app/)
 
 ## 💡 About Me
 I'm a frontend-focused Full Stack Developer with almost 2 years of experience, passionate about creating amazing web experiences.
