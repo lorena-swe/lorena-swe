@@ -31,8 +31,8 @@ Currently, I'm focused on learning more about React and TypeScript.
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ## 🎓 Certifications
-- ![Meta Certification](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white) Meta Frontend Developer Certification
-- ![React Certification](https://img.shields.io/badge/CodeWithMosh-61DAFB?style=for-the-badge&logo=react&logoColor=white) CodeWithMosh React Certification
+- ![Meta Certification](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white) Frontend Engineer
+- ![React Certification](https://img.shields.io/badge/CodeWithMosh-61DAFB?style=for-the-badge&logo=react&logoColor=white) React 18, TypeScript, and Next.js
 
 ## 💻 My Favourite Projects
 ### Issue Tracker 💡 
