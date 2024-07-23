@@ -1,4 +1,4 @@
-# Hi there, I'm Lorena 👋
+# Hi there, I'm Lorena 🌻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-zotaj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23e57373?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lorena-swe-portfolio.vercel.app/)
